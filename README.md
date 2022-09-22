@@ -1,4 +1,3 @@
-# cause-we-dont-exist
 
 credentials.env is needed and must be like:
 
